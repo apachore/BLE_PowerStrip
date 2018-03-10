@@ -1,0 +1,2 @@
+.\Export\ARM_GCC_Generic\BLE_v3_40\gccCyBLEStack_BLE_SOC_PERIPHERAL.a
+.\Export\ARM_GCC_Generic\CyComponentLibrary.a

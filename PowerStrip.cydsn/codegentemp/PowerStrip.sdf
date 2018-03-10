@@ -1,0 +1,23 @@
+(DELAYFILE
+ (SDFVERSION "IEEE 1497 4.0")
+ (DATE "2018-03-10T20:01:56Z")
+ (DESIGN "PowerStrip")
+ (VENDOR "Cypress Semiconductor")
+ (PROGRAM "PSoC Creator")
+ (VERSION " 4.1 Update 1")
+ (DIVIDER .)
+ (TIMESCALE 1 ns)
+ (CELL
+  (CELLTYPE "PowerStrip")
+  (INSTANCE *)
+  (DELAY
+   (ABSOLUTE
+    (INTERCONNECT ClockBlock.hfclk \\BLE\:bless_isr\\.clock (0.000:0.000:0.000))
+    (INTERCONNECT \\BLE\:cy_m0s8_ble\\.interrupt \\BLE\:bless_isr\\.interrupt (1.000:1.000:1.000))
+    (INTERCONNECT Relay_2\(0\)_PAD Relay_2\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT ConnLed\(0\)_PAD ConnLed\(0\).pad_in (0.000:0.000:0.000))
+    (INTERCONNECT Relay_1\(0\)_PAD Relay_1\(0\).pad_in (0.000:0.000:0.000))
+   )
+  )
+ )
+)

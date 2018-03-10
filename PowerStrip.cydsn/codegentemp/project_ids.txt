@@ -1,0 +1,6 @@
+C:\Users\Amit\Documents\PSoC Creator\PowerStrip\PowerStrip.cydsn\PowerStrip.cyprj|b258f00f-8409-4aed-8433-a79b2c1cb32f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|82d23a31-4707-4841-ae69-0b7f0c493b17
+C:\Users\Amit\Documents\PSoC Creator\4.1\Downloads ( 4.1).cylib\Downloads ( 4.1).cyprj|3f8ed510-5d58-43ca-917c-dc498f2bdc7a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|3c7f2138-e483-4820-ba92-87e0f2880cbe
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|eca596b8-8b21-47a2-b11f-7b298339d128
+C:\Program Files (x86)\Cypress\PSoC Creator\4.1\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|7313e6af-c427-4df9-90d6-c165d68705d1
