@@ -1,1 +1,3 @@
-./PowerStrip.cydsn/CortexM0/
+PowerStrip.cydsn/CortexM0/*
+*.log
+*.Amit
